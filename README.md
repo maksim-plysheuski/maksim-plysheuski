@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maks
+- 👋 Hi, I’m Maksim
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning React-Redux
 
