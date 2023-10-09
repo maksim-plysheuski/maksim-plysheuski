@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Maksim
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React-Redux
+- 👋 Hello
 
 <!---
 maksim-plysheuski/maksim-plysheuski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
