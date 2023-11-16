@@ -4,7 +4,7 @@
        </div>
        <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
            <div style="max-width: 380px; text-align: center;">
-               <span>My name is Maksim. I'm a frontend developer with experience in creating apps using React. I'm always eager to learn the latest technologies and expand my toolset.</span>
+               <span>My name is Maksim. I'm a frontend developer with experience in creating apps using React. I always eager to learn the latest technologies and expand my toolset.</span>
            </div>
            <br/>
            <a href="https://maksim-plysheuski.github.io/portfolio/" target="_blank">
@@ -24,7 +24,7 @@
                    </a>
                     <br/>
                    <span>This app for language enthusiasts aiming to expand their vocabulary learing new words.
-                     The platform offers a lot of features to contribute learning, creating different packs and fullfil them with words cards. It includes repetition and progress tracking along with a automating rating system for each word. Additionally, users can learn words from their friends</span>
+                     The platform offers numerous features to enhance learning, allowing users to create various packs and fill them with word cards. It includes learning modes, repetition, and progress tracking, facilitated by an automated rating system for each word. Additionally, users have the opportunity to learn words from their friends packs.</span>
                    <br/>
                    <br/>
                    <span><b>TaskManager</b></span>
@@ -36,7 +36,7 @@
                        <img src="https://img.shields.io/badge/Open UI-darkgreen" alt="project-2">
                    </a> 
                    <br/>
-                   <span>The app helps to organize different tasks, create lists and fullfil them with tasks. Edit, sort, remove and store in database</span>
+                   <span>The app helps to organize different tasks, create lists and fullfil them with tasks. Edit, sort, remove and store in database.</span>
                    <br/>    
        </div>
        <br />
