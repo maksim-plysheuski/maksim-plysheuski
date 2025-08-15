@@ -6,10 +6,6 @@
            <div style="max-width: 380px; text-align: center;">
                <span>My name is Maksim. I'm a frontend developer with experience in creating apps using React. I always eager to learn the latest technologies and expand my toolset.</span>
            </div>
-           <br/>
-           <a href="https://maksim-plysheuski.github.io/portfolio/" target="_blank">
-               <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-           </a>
        </div>
        <hr />
        <div>
