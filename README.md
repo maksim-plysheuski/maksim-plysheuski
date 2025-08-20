@@ -6,6 +6,9 @@
            <div style="max-width: 380px; text-align: center;">
                <span>My name is Maksim. I'm a frontend developer with experience in creating apps using React. I always eager to learn the latest technologies and expand my toolset.</span>
            </div>
+               <a href="https://www.codewars.com/users/maksim-plysheuski" target="_blank">
+               <img width="380" src="https://www.codewars.com/users/maksim-plysheuski/badges/large" alt="code-wars">
+           </a>
        </div>
        <hr />
        <div>
@@ -51,15 +54,12 @@
            <br/>
            <img width="380" src="https://github-readme-stats-salesp07.vercel.app/api?username=maksim-plysheuski&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
            <br/>
-           <a href="https://www.codewars.com/users/maksim-plysheuski" target="_blank">
-               <img width="380" src="https://www.codewars.com/users/maksim-plysheuski/badges/large" alt="code-wars">
-           </a>
        </div>
        <br />
        <div style="display: flex; flex-direction: column; align-items: center">
            <span><b>Contacts</b></span>
            <div>
-               <a href="https://t.me/plysheuski" target="_blank">
+               <a href="https://t.me/mplswk" target="_blank">
                    <img style="height: 28px" src="https://img.shields.io/badge/-Telegram-red?color=blue&logo=telegram&logoColor=white" target="_blank" />
                </a>
                <a href="mailto:plysheuski.maksim@gmail.com">
