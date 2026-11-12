@@ -4,7 +4,7 @@
        </div>
        <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
            <div style="max-width: 380px; text-align: center;">
-               <span>My name is Maksim. I'm a frontend developer with experience in creating apps using React. I always eager to learn the latest technologies and expand my toolset.</span>
+               <span>My name is Maksim. I'm a software engineer. I always eager to learn the latest technologies and expand my toolset.</span>
            </div>
                <a href="https://www.codewars.com/users/maksim-plysheuski" target="_blank">
                <img width="380" src="https://www.codewars.com/users/maksim-plysheuski/badges/large" alt="code-wars">
@@ -41,7 +41,7 @@
        <br />
         <span><b>Stack:</b></span>
         <br/>
-        <span>React, TypeScript, JavaScript, Redux, Redux-toolkit query, Storybook, Unit tests, React Router, REST API, Axios, React hook form, Redux-Thunk, Zod, Git, Postman, HTML, CSS, SASS</span>
+        <span>React, Vue, Next.js, NestJS, TypeScript, JavaScript, React Native, Ionic, Tailwind CSS, PostgressSQL, MySQL, Redux, Redux-toolkit query, Storybook, Unit tests, React Router, REST API, Axios, React hook form, Redux-Thunk, Zod, Git, Postman, HTML, CSS, SASS</span>
        <div align="center">
            <img style="width: 380px" src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,html,css,sass,git" /><br />
        </div>
